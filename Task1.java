@@ -1,4 +1,4 @@
-class Solution {
+class Task1 {
     public boolean halvesAreAlike(String s) {
         int n= s.length();
         int mid= n/2;
